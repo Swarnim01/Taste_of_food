@@ -1,0 +1,21 @@
+@media (min-width: 999px) {
+  .food {
+  }
+}
+@media (max-width: 998px) {
+  .food {
+    height: 250px;
+  }
+}
+@media (max-width: 768px) {
+  .food {
+    height: 0.5rem;
+    width: 0.5rem;
+  }
+}
+@media (max-width: 450px) {
+  .food {
+    height: 10rem;
+    width: 10rem;
+  }
+}

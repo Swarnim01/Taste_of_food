@@ -1,0 +1,20 @@
+@media (min-width: 999px) {
+  .caraousel {
+    height: 300px;
+  }
+}
+@media (max-width: 998px) {
+  .caraousel {
+    height: 250px;
+  }
+}
+@media (max-width: 768px) {
+  .caraousel {
+    height: 200px;
+  }
+}
+@media (max-width: 450px) {
+  .caraousel {
+    height: 150px;
+  }
+}
