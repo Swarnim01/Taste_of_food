@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Taste_of_home/static/css/main.7899cad7.chunk.css",
+    "main.js": "/Taste_of_home/static/js/main.6f985906.chunk.js",
+    "main.js.map": "/Taste_of_home/static/js/main.6f985906.chunk.js.map",
+    "runtime-main.js": "/Taste_of_home/static/js/runtime-main.df4b6b4a.js",
+    "runtime-main.js.map": "/Taste_of_home/static/js/runtime-main.df4b6b4a.js.map",
+    "static/js/2.5b620a1a.chunk.js": "/Taste_of_home/static/js/2.5b620a1a.chunk.js",
+    "static/js/2.5b620a1a.chunk.js.map": "/Taste_of_home/static/js/2.5b620a1a.chunk.js.map",
+    "static/js/3.b40eb3f5.chunk.js": "/Taste_of_home/static/js/3.b40eb3f5.chunk.js",
+    "static/js/3.b40eb3f5.chunk.js.map": "/Taste_of_home/static/js/3.b40eb3f5.chunk.js.map",
+    "index.html": "/Taste_of_home/index.html",
+    "static/css/main.7899cad7.chunk.css.map": "/Taste_of_home/static/css/main.7899cad7.chunk.css.map",
+    "static/js/2.5b620a1a.chunk.js.LICENSE.txt": "/Taste_of_home/static/js/2.5b620a1a.chunk.js.LICENSE.txt",
+    "static/media/Food.a48b587a.jpeg": "/Taste_of_home/static/media/Food.a48b587a.jpeg",
+    "static/media/caraousel.aa20cd1e.jpeg": "/Taste_of_home/static/media/caraousel.aa20cd1e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df4b6b4a.js",
+    "static/js/2.5b620a1a.chunk.js",
+    "static/css/main.7899cad7.chunk.css",
+    "static/js/main.6f985906.chunk.js"
+  ]
+}
